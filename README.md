@@ -1,5 +1,6 @@
 # Maroosha cursors
 <p>Порт Windows курсоров от Maroosha на Linux, которые можно поставить, скачав и распаковав архив с курсорами по пути /home/$USER/.icons/ или </p>
+
 ```
 cd /home/$USER/.icons/ && git clone https://github.com/Cherbeki/Maroosha_cursors.git
 ```
